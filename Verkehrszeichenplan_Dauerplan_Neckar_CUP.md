@@ -17,6 +17,8 @@ estimated_reading_time: 6
 
 Dieser Plan dient als wiederverwendbare Vorlage fuer die jaehrliche Vollsperrung im Bereich Heiligen Bronn im Rahmen des Peter Schaefer Neckar CUP in Neckartenzlingen.
 
+Zusaetzlich wird fuer die jaehrliche Antragstellung ein einseitiges Halteverbot im markierten Bereich der Strasse Im Heiligenbronn vorgesehen, und zwar von der Einmuendung Altdorfer Strasse bis zum Parkplatz fuer die Dauer der Veranstaltung.
+
 Die Vorlage basiert auf:
 
 * verkehrsrechtlicher Anordnung vom 08.10.2025, Buchungszeichen 5.5085.251894.4
@@ -99,6 +101,7 @@ Verbindlich aus der Anordnung 2025, weiterhin als Standard zu fuehren:
 5. Warnleuchten bei unzureichenden Lichtverhaeltnissen in Betrieb halten
 6. Nach Veranstaltungsende unverzueglicher Rueckbau und Reinigung
 7. Verantwortliche Person mit mobiler Erreichbarkeit benennen
+8. Einseitiges Halteverbot im markierten Abschnitt der Strasse Im Heiligenbronn von der Einmuendung Altdorfer Strasse bis zum Parkplatz waehrend der gesamten Veranstaltungsdauer einrichten
 
 ## Aufbaufolge am Veranstaltungstag
 
@@ -128,6 +131,7 @@ Diese Felder jedes Jahr aktualisieren:
 4. Exakte Pfeilrichtungen der Umleitungszeichen an Sperrstelle Nord und Sperrstelle Sued
 5. Erforderliche Zusatzhinweise fuer Fuss- und Radverkehr
 6. Kontaktliste Polizei, Gemeinde, Leitstelle
+7. Markierung und Beantragung des einseitigen Halteverbots in der Strasse Im Heiligenbronn von der Einmuendung Altdorfer Strasse bis zum Parkplatz
 
 ## Kurzcheckliste fuer den Materialabruf
 

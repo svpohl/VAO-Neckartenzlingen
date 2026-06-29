@@ -39,6 +39,10 @@ Betroffener Bereich:
 
 * Heiligen Bronn, Neckartenzlingen
 
+Zusatzbeantragung im markierten Bereich:
+
+* Fuer die Strasse Im Heiligenbronn wird im Abschnitt von der Einmuendung Altdorfer Strasse bis zum Parkplatz fuer die Dauer der Veranstaltung ein einseitiges Halteverbot beantragt.
+
 ## Regelplanbezug nach RSA 21
 
 Basis-Regelplan:
@@ -51,6 +55,7 @@ Oertliche Anpassung fuer Veranstaltung:
 2. Vollsperrung aus beiden Fahrtrichtungen mit VZ 250
 3. Umleitungsfuehrung fuer Fuss- und Radverkehr mit VZ 422-16 und VZ 422-26
 4. Streckenposten an beiden Sperrstellen
+5. Einseitiges Halteverbot im markierten Abschnitt der Strasse Im Heiligenbronn von der Einmuendung Altdorfer Strasse bis zum Parkplatz fuer die Dauer der Veranstaltung
 
 ## Feste Sperrstellen mit Ortsbezeichnung
 
